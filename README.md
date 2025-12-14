@@ -5,5 +5,5 @@
 <br>
 1- سایت شرکت صنایع غذایی روژین:
 https://www.rojintaak.com/
-![Rojintaak banner](rojintaak_banner.png)
+![Rojintaak banner](نمونه کار های طراحی سایت/rojintaak_banner.png)
 
